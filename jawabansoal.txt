@@ -14,7 +14,7 @@ JAWABAN NOMOR 2.
   Cara kerja CSS yaitu hanya membutuhkan style sebagai penentu dari 
   font, warna, dan format-format lain untuk memformat atribut sebuah halaman web yang dibuat. 
   Tiap style mempunyai dua buah elemen dasar, yaitu “selector” dan “declaration”
-  tag html disebut selector dan format css seperti color,margin dll adalah declaration
+  tag html disebut selector dan format css seperti color,margin dll adalah declaration.
 
 
 JAWABAN NOMOR 3.
