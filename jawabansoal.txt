@@ -1,11 +1,11 @@
-JAWABAN NOMOR 1.
+JAWABAN SOAL NOMOR 1.
 
 HTML adalah kepanjangan dari Hypertext Markup Language. HTML merupakan bahasa pemograman 
 untuk membuat sebuah web dimana bahasa textnya menggunakan markup atau kode-kode tertentu yang dapat 
 menginstruksikan web browser menampilkan halaman sesuai keinginan. Sebuah file dengan format file.
 html dapat dibuka melalui web browser seperti Internet Explorer, Mozila, Chrome, dll.
 
-JAWABAN NOMOR 2.
+JAWABAN SOAL NOMOR 2.
   
   CSS (Cascading Style Sheets) adalah cara untuk memisahkan isi dengan 
   layout dalam halaman-halaman web yang dibuat. CSS style digunakan untuk membuat
@@ -17,7 +17,7 @@ JAWABAN NOMOR 2.
   tag html disebut selector dan format css seperti color,margin dll adalah declaration.
 
 
-JAWABAN NOMOR 3.
+JAWABAN SOAL NOMOR 3.
 Bootstrap adalah kumpulan potongan kode yang dapat digunakan kembali yang ditulis dalam HTML, CSS, dan JavaScript.
 Namun, ini adalah free dan open-source front end web development framework untuk membantu Anda membuat situs web 
 dan aplikasi web yang responsif.
